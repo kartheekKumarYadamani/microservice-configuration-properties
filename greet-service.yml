@@ -5,7 +5,7 @@ spring:
         url: http://localhost:1111
 
 server:
-  port: 8080
+  port: 8008
 
 eureka:
   client:
